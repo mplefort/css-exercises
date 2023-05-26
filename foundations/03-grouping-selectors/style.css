@@ -1,0 +1,15 @@
+
+.black-box{
+    background-color: black;
+    color: white;
+}
+
+.yellow-box{
+    background-color: yellow;
+    color: black;
+}
+
+.yellow-box, .black-box{
+    font-size: 24px;
+    font-family: "Helvetica";
+}
